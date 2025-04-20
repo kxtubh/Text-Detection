@@ -1,4 +1,5 @@
-# Text Detection Application Project Report
+# Text Detection Application using EasyOCR and Streamlit
+
 
 ## Project Overview
 This report documents the development of a Text Detection Application using EasyOCR and Streamlit. The application provides a user-friendly web interface for uploading images and extracting text content using Optical Character Recognition (OCR) technology.
